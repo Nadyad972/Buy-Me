@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Buy ME tests">
+    <!--        parallel="methods" thread-count="4"-->
+    <test name="Parallel Buy Me Tests">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="url" value="https://buyme.co.il/"/>
+        <classes>
+            <class name="tests.BuyMeTests"/>
+        </classes>
+    </test>
+
+</suite>
