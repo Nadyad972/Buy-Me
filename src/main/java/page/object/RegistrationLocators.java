@@ -17,7 +17,7 @@ public class RegistrationLocators {
 
 
     //    Table
-    public static final String TBL_SELECTED_ACCOUNT = "selectedAccountsDataTable";
+//    public static final String TBL_SELECTED_ACCOUNT = "selectedAccountsDataTable";
 
 
     //    Inputs
@@ -26,15 +26,15 @@ public class RegistrationLocators {
 
 
     //    Checkbox
-    public static final By CHBOX_ACCOUNTS_CHECKBOX = By.className("checkboxSearch");
+//    public static final By CHBOX_ACCOUNTS_CHECKBOX = By.className("checkboxSearch");
 
 
     //    Tabs
-    public static final By TAB_CONFIGURE_ORDER = By.id("initial-step-container");
+//    public static final By TAB_CONFIGURE_ORDER = By.id("initial-step-container");
 
 
     //    Radio button
-    public static final By RBT_GATEWAY_TOTAL_THROUGHPUT = By.cssSelector("#gatewayThroughputRadio svg");
+//    public static final By RBT_GATEWAY_TOTAL_THROUGHPUT = By.cssSelector("#gatewayThroughputRadio svg");
 
 
     //     Dropdown List
@@ -42,17 +42,17 @@ public class RegistrationLocators {
 
 
     //    Popup
-    public static final By POPUP_SESSION_LOCATION_ERR = By.className("errorButtonHeader");
+//    public static final By POPUP_SESSION_LOCATION_ERR = By.className("errorButtonHeader");
 
 
     //    Chips
-    public static final By CHIP_FILTER_BY_ALL_CHIPS = By.cssSelector("[id^='filter-by-']");
+//    public static final By CHIP_FILTER_BY_ALL_CHIPS = By.cssSelector("[id^='filter-by-']");
 
 
     //    Icons
-    public static final By ICON_STATUS_COMMENT = By.id("order-status-text");
+//    public static final By ICON_STATUS_COMMENT = By.id("order-status-text");
 
 
     //    Form
-    public static final By FORM_LOGIN= By.id("login_form");
+//    public static final By FORM_LOGIN= By.id("login_form");
 }

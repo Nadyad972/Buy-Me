@@ -4,37 +4,37 @@ import org.openqa.selenium.By;
 
 public class CommonLocators {
 //     Buttons
-    public static final By BTN_COOP_NAV_BAR = By.id("cp_nav_identifier_COOP");
+//    public static final By BTN_COOP_NAV_BAR = By.id("cp_nav_identifier_COOP");
 
 
 
 //     Text
-    public static final By TXT_SUMMARY_HEADER_KEYS = By.cssSelector("span[class^='PartnerDetailsItem-local__key__']");
-    public static final By TXT_SUMMARY_HEADER_VALUES = By.cssSelector("div[class^='PartnerDetailsItem-local__value__']");
+//    public static final By TXT_SUMMARY_HEADER_KEYS = By.cssSelector("span[class^='PartnerDetailsItem-local__key__']");
+//    public static final By TXT_SUMMARY_HEADER_VALUES = By.cssSelector("div[class^='PartnerDetailsItem-local__value__']");
 
 
 //    Table
-    public static final String TBL_SELECTED_ACCOUNT = "selectedAccountsDataTable";
+//    public static final String TBL_SELECTED_ACCOUNT = "selectedAccountsDataTable";
 
 
 //    Inputs
-    public static final By TXTBX_SEARCH_SALES_FORCE = By.cssSelector("[placeholder='Search Salesforce']");
+//    public static final By TXTBX_SEARCH_SALES_FORCE = By.cssSelector("[placeholder='Search Salesforce']");
 
 
 //    Checkbox
-    public static final By CHBOX_ACCOUNTS_CHECKBOX = By.className("checkboxSearch");
+//    public static final By CHBOX_ACCOUNTS_CHECKBOX = By.className("checkboxSearch");
 
 
 //    Tabs
-    public static final By TAB_CONFIGURE_ORDER = By.id("initial-step-container");
+//    public static final By TAB_CONFIGURE_ORDER = By.id("initial-step-container");
 
 
 //    Radio button
-    public static final By RBT_GATEWAY_TOTAL_THROUGHPUT = By.cssSelector("#gatewayThroughputRadio svg");
+//    public static final By RBT_GATEWAY_TOTAL_THROUGHPUT = By.cssSelector("#gatewayThroughputRadio svg");
 
 
 //     Dropdown List
-    public static final By DDL_SELECT_PARTNER = By.id("select-partner");
+//    public static final By DDL_SELECT_PARTNER = By.id("select-partner");
 
 
 //    Popup
